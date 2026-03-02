@@ -2,7 +2,7 @@ duckduckgo:
 https://duckduckgo.com/
 
 gomovies:
-https://gomovies.gg/watch-movie/
+https://gomovies.gg/
 
 croxyproxy:
 https://www.croxyproxy.net/
