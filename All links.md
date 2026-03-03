@@ -12,3 +12,6 @@ https://www.perplexity.ai/
 
 crazygames:
 https://www.crazygames.com/
+
+yt music:
+http://www.youtubemusic.com/
