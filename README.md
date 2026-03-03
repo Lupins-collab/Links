@@ -7,3 +7,5 @@ croxyproxy: https://www.croxyproxy.net/
 perplexity: https://www.perplexity.ai/
 
 crazygames: https://www.crazygames.com/
+
+yt music:https://music.youtube.com/
