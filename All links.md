@@ -14,4 +14,4 @@ crazygames:
 https://www.crazygames.com/
 
 yt music:
-http://www.youtubemusic.com/
+http://www.music.youtube.com/
