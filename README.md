@@ -11,3 +11,5 @@ crazygames: https://www.crazygames.com/
 yt music:https://music.youtube.com/
 
  yflix(moviesite): https://yflix.to/home 
+
+xhamster:https://xhamster.com/
