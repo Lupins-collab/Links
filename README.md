@@ -12,8 +12,4 @@ yt music:https://music.youtube.com/
 
  yflix(moviesite): https://yflix.to/home 
 
-xhamster:https://xhamster18.com
-
-eporner:https://EPORNER.com
-
 https://joemonxxxleaks.com
