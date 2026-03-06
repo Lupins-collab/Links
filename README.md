@@ -6,7 +6,9 @@ croxyproxy: https://www.croxyproxy.net/
 
 perplexity: https://www.perplexity.ai/
 
-crazygames: https://www.crazygames.com/
+crazygames: https://www.crazygames.com/ 
+
+   ●veck.io:https://www.crazygames.com/game/veck-io
 
 yt music:https://music.youtube.com/
 
