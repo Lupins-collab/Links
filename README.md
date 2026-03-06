@@ -12,6 +12,6 @@ yt music:https://music.youtube.com/
 
  yflix(moviesite): https://yflix.to/home 
 
- play gama:http//:www.playgama.com/
+ play gama:http://playgama.com/
 
 
