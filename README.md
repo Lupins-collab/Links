@@ -2,7 +2,7 @@ duckduckgo: https://duckduckgo.com/
 
 gomovies: https://gomovies.ms/
 
-croxyproxy: https://www.croxyproxy.in/
+croxyproxy: https://www.croxyproxy.net/
 
 perplexity: https://www.perplexity.ai/
 
