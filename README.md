@@ -17,3 +17,5 @@ yt music:https://music.youtube.com/
  play gama: https://playgama.com/[1].
 
 gta vice city: https://quenq.com/apps/vice-city/
+
+windows xp simulator:https://quenq.com/apps/reborn-xp/
