@@ -16,4 +16,4 @@ yt music:https://music.youtube.com/
 
  play gama: https://playgama.com/[1].
 
-
+scribd
